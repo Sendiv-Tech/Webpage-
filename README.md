@@ -104,6 +104,4 @@ Add screenshots of:
 
 
 
-**Project Type:** Academic / College Mini Project
-**Status:** Completed ✅
-# Webpage-
+
